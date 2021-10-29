@@ -1,0 +1,21 @@
+Algoritmo "Adição"
+// Disciplina : [Lógica de Programação e JavaScript]
+// Professor : Jailson Costa dos Santos
+// Descrição : Efetuar a adição de dois valores e exibir o resultado.
+// Autor(a) : Juliane <3
+// Data atual : 25/08/2021
+Var
+   // Seção de Declarações das variáveis
+   numero:inteiro
+   numero1:inteiro
+   soma:inteiro
+Inicio
+   // Seção de Comandos, procedimento, funções, operadores, etc...
+   Escreval("Bom dia!!!")
+   Escreval("Se deseja realizar a adição entre dois números digite o primeiro:")
+   Leia(numero)
+   Escreval("Digite outro número:")
+   Leia(numero1)
+   soma<-numero+numero1
+   Escreval("O valor da adição é :", soma)
+Fimalgoritmo
